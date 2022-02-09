@@ -1,4 +1,4 @@
-# python-for-data-analysis
+# Introductory Python for Data Analysis
 
 This repository has the notebooks used in the Introductory Python for Data Analysis Course by Eugene Foli
 
